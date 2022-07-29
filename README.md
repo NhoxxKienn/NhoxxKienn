@@ -5,9 +5,9 @@
 - 📫 How to reach me: huy.tranminh2804@gmail.com
 
 My most recent projects:
-- 🦜 Chasing Love: A game created for submission of the course Serious Game at TU Darmstadt: 
+- 🦜 *Chasing Love*: A game created for submission of the course Serious Game at TU Darmstadt: https://github.com/NhoxxKienn/Chasing-Love.git 
 
-- 🔫 Karik: A top=down shooter creadted with my friend to participate in the Jame Gam #20 on itch.io: 
+- 🔫 *Karik*: A top=down shooter creadted with my friend to participate in the Jame Gam #20 on itch.io: https://github.com/hkhoa-ng/game-jam-july-2022.git
 
 <!---
 NhoxxKienn/NhoxxKienn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
