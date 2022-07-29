@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NhoxxKienn
-- 👀 I’m interested in Programming, Games and TFT.
+- 👀 I’m interested in Software Development, Web Application and Unity.
 - 🌱 I’m currently studying Computer Science at Technical University Darmstadt, Germany
-- 💞️ I’m looking to collaborate on making something fun
+- 💞️ I’m looking to collaborate on making something fun games: https://nhoxkien.itch.io/
 - 📫 How to reach me: huy.tranminh2804@gmail.com
 
 My most recent projects:
