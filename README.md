@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NhoxxKienn
-- 👀 I’m interested in Software Development, Web Application and Unity.
-- 🌱 I’m currently studying Computer Science at Technical University Darmstadt, Germany
+- 👀 I’m interested in Software Development, GoLang and Unity.
+- 🌱 I’m currently studying Msc. Computer Science at Technical University Darmstadt, Germany
 - 💞️ I’m looking to collaborate on making something fun games: https://nhoxkien.itch.io/
 - 📫 How to reach me: huy.tranminh2804@gmail.com
 
