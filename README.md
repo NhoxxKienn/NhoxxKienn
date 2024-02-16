@@ -10,7 +10,6 @@ My most recent projects:
 - 🔫 *Karik*: A top=down shooter creadted with my friend to participate in the Jame Gam #20 on itch.io: https://github.com/hkhoa-ng/game-jam-july-2022.git
 
 
-[![NhoxxKienn's GitHub stats](https://github-readme-stats.vercel.app/api?username=NhoxxKienn)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 NhoxxKienn/NhoxxKienn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
