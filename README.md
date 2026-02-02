@@ -1,16 +1,25 @@
-- 👋 Hi, I’m @NhoxxKienn
-- 👀 I’m interested in Software Development, GoLang and Unity.
-- 🌱 I’m currently studying Msc. Computer Science at Technical University of Darmstadt, Germany
-- 💞️ I’m looking to collaborate on making something fun games: https://nhoxkien.itch.io/
-- 📫 How to reach me: huy.tranminh2804@gmail.com
+# Minh Huy Tran
 
-My most recent projects:
-- 🦜 *Chasing Love*: A game created for submission of the course Serious Game at TU Darmstadt: https://github.com/NhoxxKienn/Chasing-Love.git 
+**Systems Software Engineer** specializing in distributed systems, cryptography, and high-performance computing.
 
-- 🔫 *Karik*: A top=down shooter creadted with my friend to participate in the Jame Gam #20 on itch.io: https://github.com/hkhoa-ng/game-jam-july-2022.git
+🔧 **Core Expertise:**
+- Rust (async systems programming, cryptographic protocols)
+- Go (distributed systems, concurrent programming)
+- Zero-Knowledge Proofs, Byzantine Fault Tolerance, PKI
 
+💼 **Current:**
+- Systems Engineer @ PolyCrypt GmbH (2022-Present)
+- MSc Computer Science @ TU Darmstadt (expected July 2026)
 
-<!---
-NhoxxKienn/NhoxxKienn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 **Open-Source Contributions:**
+- Perun Network: State channels & payment protocols
+- Hyperledger Foundation: Distributed ledger technology
+- LOEWE Initiative: Applied cryptography research
+
+📬 **Contact:** huy.tranminh2804@gmail.com | [LinkedIn](https://www.linkedin.com/in/minhhuy-tran)
+
+---
+
+### Featured Projects
+
+Explore my pinned repositories below for systems-level work in Rust, Go, and distributed protocols.
