@@ -7,8 +7,8 @@
 - Zero-Knowledge Proofs, Byzantine Fault Tolerance, PKI
 
 **Current:**
-- Systems Engineer @ PolyCrypt GmbH (2022-Present)
-- MSc Computer Science @ TU Darmstadt (expected July 2026)
+- Systems Engineer @ PolyCrypt GmbH (2022-2026)
+- MSc Computer Science @ TU Darmstadt (August 2026)
 
 **Open-Source Contributions:**
 - Perun Network: State channels & payment protocols
